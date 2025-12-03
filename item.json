@@ -14,20 +14,6 @@
       ],
       "entries": [
         {
-          "id": "w1",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Vokabular Item"
-            }
-          ],
-          "type": "vocabulary",
-          "parameters": {
-            "url": "https://w3id.org/iqb/v27/it/",
-            "allowMultipleValues": false
-          }
-        },
-        {
           "id": "w2",
           "label": [
             {
