@@ -65,21 +65,21 @@
           "label": [
             {
               "lang": "de",
-              "value": "Boolean Aufgabe"
+              "value": "Boolean Aufgabe JA/NEIN"
             }
           ],
           "type": "boolean",
           "parameters": {
-            "falseLabel": [
-              {
-                "lang": "de",
-                "value": "nein"
-              }
-            ],
             "trueLabel": [
               {
                 "lang": "de",
                 "value": "ja"
+              }
+            ],
+            "falseLabel": [
+              {
+                "lang": "de",
+                "value": "nein"
               }
             ]
           }
