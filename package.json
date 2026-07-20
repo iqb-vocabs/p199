@@ -1,5 +1,5 @@
 {
-  "name": "p99",
+  "name": "p199",
   "version": "0.4.0",
   "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "license": "CC0-1.0",
@@ -9,14 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iqb-vocabs/p99.git"
+    "url": "git+https://github.com/iqb-vocabs/p199.git"
   },
   "bugs": {
-    "url": "https://github.com/iqb-vocabs/p99/issues"
+    "url": "https://github.com/iqb-vocabs/p199/issues"
   },
-  "homepage": "https://github.com/iqb-vocabs/p99#readme",
+  "homepage": "https://github.com/iqb-vocabs/p199#readme",
   "dependencies": {
-    "@iqb/validate-md-profile": "^0.10.5"
+    "@iqb/validate-md-profile": "0.10.5"
   }
 }
-
