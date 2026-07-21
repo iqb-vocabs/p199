@@ -4,6 +4,7 @@
     "lang": "de",
     "value": "Testprofil - Aufgabe"
   }],
+  "target": ["UNIT"],
   "groups": [
     {
       "label": [
@@ -21,7 +22,7 @@
               "value": "Vokabular Aufgabe Implicit"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v34/se/",
             "allowMultipleValues": true,
@@ -36,12 +37,12 @@
               "value": "Vokabular Aufgabe In-form"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v34/se/",
             "allowMultipleValues": true,
             "hideNumbering": false,
-            "selectionMode": "in-form"
+            "selectionMode": "IN_FORM"
           }
         },
         {
@@ -52,7 +53,7 @@
               "value": "Boolean Aufgabe JA/NEIN"
             }
           ],
-          "type": "boolean",
+          "type": "BOOLEAN",
           "parameters": {
             "trueLabel": [
               {
@@ -75,7 +76,7 @@
               "value": "Number Aufgabe"
             }
           ],
-          "type": "number",
+          "type": "NUMBER",
           "parameters": {
             "minValue": 0,
             "digits": 0
