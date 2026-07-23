@@ -69,16 +69,33 @@
           "label": [
             {
               "lang": "de",
-              "value": "Test Vokabular"
+              "value": "Test Vokabular In_form"
             }
           ],
           "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v99/pc/",
             "allowMultipleValues": true,
-            "maxLevel": 1
+            "maxLevel": 1,
+            "selectionMode": "IN_FORM"
+          }
+        },{
+          "id": "w6",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Test Dialog Vokabular"
+            }
+          ],
+          "type": "VOCABULARY",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v99/sc/",
+            "allowMultipleValues": true,
+            "maxLevel": 1,
+            "selectionMode": "DIALOG"
           }
         }
+
       ]
     }
   ]
