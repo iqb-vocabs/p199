@@ -12,7 +12,7 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p199/master/unit.js
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
-| Vokabular Aufgabe Implicit | [Vokabular](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', Mehrfachauswahl, Dialogbox | a12 |
+| Vokabular Aufgabe Dialog | [Vokabular](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', Mehrfachauswahl, Dialogbox | a12 |
 | Vokabular Aufgabe In-form | [Vokabular](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', Mehrfachauswahl, integrierte Darstellung | a13 |
 | Boolean Aufgabe JA/NEIN | Ja/Nein | Text für WAHR: ja, Text für FALSCH: nein | a3 |
 | Number Aufgabe | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein | a4 |

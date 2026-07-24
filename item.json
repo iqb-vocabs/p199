@@ -91,11 +91,9 @@
           "parameters": {
             "url": "https://w3id.org/iqb/v99/sc/",
             "allowMultipleValues": true,
-            "maxLevel": 1,
-            "selectionMode": "DIALOG"
+            "maxLevel": 1
           }
         }
-
       ]
     }
   ]

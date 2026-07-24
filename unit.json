@@ -19,14 +19,15 @@
           "label": [
             {
               "lang": "de",
-              "value": "Vokabular Aufgabe Implicit"
+              "value": "Vokabular Aufgabe Dialog"
             }
           ],
           "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v34/se/",
             "allowMultipleValues": true,
-            "hideNumbering": false
+            "hideNumbering": false,
+            "selectionMode": "DIALOG"
           }
         },
         {
