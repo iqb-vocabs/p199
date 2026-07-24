@@ -1,10 +1,14 @@
 {
   "id": "https://raw.githubusercontent.com/iqb-vocabs/p199/master/unit.json",
-  "label": [{
-    "lang": "de",
-    "value": "Testprofil - Aufgabe"
-  }],
-  "target": ["UNIT"],
+  "label": [
+    {
+      "lang": "de",
+      "value": "Testprofil - Aufgabe"
+    }
+  ],
+  "target": [
+    "UNIT"
+  ],
   "groups": [
     {
       "label": [
@@ -19,15 +23,14 @@
           "label": [
             {
               "lang": "de",
-              "value": "Vokabular Aufgabe Dialog"
+              "value": "Vokabular Aufgabe Implicit"
             }
           ],
           "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v34/se/",
             "allowMultipleValues": true,
-            "hideNumbering": false,
-            "selectionMode": "DIALOG"
+            "hideNumbering": false
           }
         },
         {
@@ -69,7 +72,8 @@
               }
             ]
           }
-        },{
+        },
+        {
           "id": "a4",
           "label": [
             {
