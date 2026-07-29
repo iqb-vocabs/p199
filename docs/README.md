@@ -8,7 +8,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "Testprofil - Aufgabe"
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p199/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p199/master/unit.json)
+ID of profile: [https://w3id.org/iqb/p199/unit/](https://w3id.org/iqb/p199/unit/)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
@@ -19,7 +19,7 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p199/master/unit.js
 
 ## Profil "Testprofil - Item"
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p199/master/item.json](https://raw.githubusercontent.com/iqb-vocabs/p199/master/item.json)
+ID of profile: [https://w3id.org/iqb/p199/item/](https://w3id.org/iqb/p199/item/)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
