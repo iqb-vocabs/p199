@@ -1,6 +1,6 @@
 ### Änderung von Version 0.6.0 auf Version 0.7.0
 
-Aktualisierung der Abhängigkeit auf @iqb/validate-md-profile@^0.10.7.
+Aktualisierung der Abhängigkeit auf @iqb/validate-md-profile@^0.10.8.
 
 ### Änderung von Version 0.5.0 auf Version 0.6.0
 
