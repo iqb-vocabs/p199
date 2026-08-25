@@ -43,7 +43,7 @@
           ],
           "type": "VOCABULARY",
           "parameters": {
-            "url": "https://w3id.org/iqb/v34/se/",
+            "url": "https://w3id.org/iqb/v24/kh/",
             "allowMultipleValues": true,
             "hideNumbering": false,
             "selectionMode": "IN_FORM"
